@@ -1,7 +1,0 @@
-{
-    "name": "usuario/practica1t",
-    "require": {
-        "slim/slim": "3.*",
-        "jenssegers/blade": "^1.4"
-    }
-}
